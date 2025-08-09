@@ -1,4 +1,6 @@
 ## Hi there 👋
+这是基于Scenarionet导入的Waymo数据集生成MARL环境的代码
+运行run_multiagent_env即可！
 
 <!--
 **Paul-DiracZ/Paul-DiracZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
